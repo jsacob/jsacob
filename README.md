@@ -1,4 +1,4 @@
-a- Hi, I’m Jacob
+- Hi, I’m Jacob
 - I’m interested systems, websites, and servers. maybe scripts and just how the computer works in general?
 - I’m currently learning Data Structure & Alogritms! can't ever hurt.. 
 <!---
