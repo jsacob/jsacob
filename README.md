@@ -3,7 +3,7 @@
 
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 
-<h1>Languages & Tools I've work with</h1>
+<h3>Languages & Tools I've work with</h3>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
     <defs>
