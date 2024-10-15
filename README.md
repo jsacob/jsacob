@@ -2,8 +2,9 @@
 - I’m interested in software development, scripting, web development and a little bit of game development;
 
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsacob&show_icons=true&theme=onedark)
+
 <h1>Languages & Tools I've work with</h1>
+
 <svg xmlns="http://www.w3.org/2000/svg" width="112" height="102" fill="none">
   <path
     fill="#61dafb"
