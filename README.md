@@ -1,5 +1,6 @@
 <h1>Jacob</h1>
-- I’m interested in software development, scripting, web development and a little bit of game development
+- I’m interested in software development, scripting, web development and a little bit of game development;
+
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsacob&show_icons=true&theme=onedark)
 <h1>Languages & Tools I've work with</h1>
