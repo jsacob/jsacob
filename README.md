@@ -1,5 +1,5 @@
-<h1>Jacob</h1>
-- I’m interested in software development, scripting, web development and a little bit of game development;
+<h1>Welcome to my github page!</h1>
+- I’m interested in software development, scripting, web development 
 
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 
