@@ -5,4 +5,4 @@
 
 <h3>Languages & Tools I've work with</h3>
 
-![TS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS Icon" width="50" height="50">
