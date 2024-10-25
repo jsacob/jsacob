@@ -4,3 +4,4 @@
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 
 <h3>Languages & Tools I've work with</h3>
+https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
