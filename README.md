@@ -1,5 +1,5 @@
 <h1>Welcome to my github page!</h1>
-- I’m interested in software development, scripting, web development 
+- I do and enjoy Web Developemnt, Data Structure & Algorithms, Software Development. 
 
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 
