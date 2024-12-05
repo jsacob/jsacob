@@ -1,5 +1,4 @@
 <h1>Welcome to my github page!</h1>
-- I do Web Developemnt, Data Structure & Algorithms, Software Development. 
 
 ![](https://leetcard.jacoblin.cool/jsacob?border=0&radius=20) 
 
