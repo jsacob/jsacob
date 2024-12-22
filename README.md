@@ -1,5 +1,3 @@
-<h1>Welcome to my github page!</h1>
-
 <h3>Languages & Tools I've work with</h3>
 <div style="width: 100%;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Programming Icon" width="50" height="50"> 
