@@ -1,3 +1,4 @@
+```cpp
 int main() {
     for(int x1 = 1; x1 <= 5; x1++) {
         for(int y1 = 1; y1 <= 5; y1++) {
@@ -49,6 +50,6 @@ int main() {
         }
     }
 }
-
+```
 
 1 character is about 16 pixels tall, or roughly 0.003 meters. The 5⁴⁸ lines from this code would stack to ~3.55×10³¹ meters I can go to the Sun and back ~3.55×10¹⁹ times
