@@ -49,4 +49,6 @@ int main() {
         }
     }
 }
+
+
 1 character is about 16 pixels tall, or roughly 0.003 meters. The 5⁴⁸ lines from this code would stack to ~3.55×10³¹ meters I can go to the Sun and back ~3.55×10¹⁹ times
